@@ -5,7 +5,8 @@ First Odin Project
 This project was done with no major challenge.
 I have use flex display for the layouts.
 The only obstacles I've accounted was the
-size of some elements.
+logo might look very bad looking using safary
+(can't find out the reason).
 
 Credits:
 
